@@ -1,0 +1,23 @@
+{
+  "name": "jsframeworks",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "KMalan"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.8.3",
+    "bootstrap": "~3.3.6"
+  }
+}
